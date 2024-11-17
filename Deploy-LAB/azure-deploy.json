@@ -76,12 +76,12 @@
     }
   },
     "variables": {
-        "doadminusername": "doadmin",
-        "doadminpassword": "DOLabAdmin1!",
+        "doadminusername": "otadmin",
+        "doadminpassword": "OTAdmin12345!@#$%",
         "donameprefix": "WS0",
         "doWSKU": "win10-22h2-pro",
         "doServerSKU": "2022-Datacenter",
-        "dofqdn": "doazlab.com",
+        "dofqdn": "otad.com",
         "doc2": "metasploit",
         "doc2ubuntusku": "22.04-lts",
         "doworkspaceprefix": "LA-workspace",
